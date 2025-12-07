@@ -36,16 +36,22 @@ This tool automates the exploitation of exposed Docker API instances without aut
 - Colored terminal output for enhanced visibility
 
 ## Installation
-
+1. Clone the repository
 ```bash
 git clone https://github.com/xwpdx0/poc-2025-9074
 ```
-
+2. Compile the code
 ```bash
-chmod +x poc-2025-9074
+gcc poc.c -o poc-2025-9074
 ```
 
+or you can download the binary from [Releases](https://github.com/xwpdx0/poc-2025-9074/releases/tag/CVE-2025-9074)
+
 ## Usage
+
+```bash
+./poc-2025-9074
+```
 
 ### Default Target
 
