@@ -10,6 +10,8 @@ A sophisticated exploitation framework for CVE-2025-9074, targeting unauthentica
 
 This tool automates the exploitation of exposed Docker API instances without authentication, allowing full container creation and command execution on the target host. The tool features a custom interactive shell for seamless post-exploitation operations.
 
+> **Note:** This is a custom PoC implementation. I did not discover CVE-2025-9074.
+
 ## Demonstration
 
 ### Initial Exploitation
