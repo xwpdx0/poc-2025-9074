@@ -1,4 +1,4 @@
-# CVE-2025-9074 Exploit Tool
+# CVE-2025-9074 | Docker API CVE-2025-9074 PoC (Proof-Of-Concept)
 
 A sophisticated exploitation framework for CVE-2025-9074, targeting unauthenticated Docker API endpoints with an integrated interactive command shell.
 
